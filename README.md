@@ -5,3 +5,9 @@ Go to https://www.kaggle.com/c/rsna-pneumonia-detection-challenge/ and go to the
 
 ## 2. Code:
 Open the project_final code file inside of the extracted file. It should be in the same level as the output_predictions and rsna-pneumonia-detection-challenge folders. At that point, you can run the code. Each block has a specific purpose that is explained in the text block above it.
+
+## 3. Video Explanation:
+Can be found at the ()
+
+## 4. Report:
+Can be found at ().
