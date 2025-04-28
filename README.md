@@ -10,4 +10,4 @@ Open the project_final code file inside of the extracted file. It should be in t
 Can be found at https://youtu.be/ZEtlGaFVW3s.
 
 ## 4. Report:
-Can be found at ().
+Can be found in the final project report attached in the repository.
